@@ -1,0 +1,27 @@
+
+@import url('https://fonts.googleapis.com/css?family=Modak');
+
+.container .row div p{
+    font-family: 'Modak', cursive;
+}
+.container .row div .imagen-banner{
+    width: 50%;
+    height: auto;
+}
+.container .row div h1{
+    color: gold;
+    width: 500px;
+    margin: 10% auto;
+    border: solid rgba(14, 15, 15, 0.836) 2px;
+    background-color: rgb(23, 120, 145);
+}
+.container .row div .imagen{
+    width: 80%;
+    height: auto;
+}
+.container .row .texto1{
+    color:red;
+}
+.container .row .texto2{
+    color:rgb(75, 102, 124);
+}
